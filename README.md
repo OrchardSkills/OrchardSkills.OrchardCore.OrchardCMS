@@ -1,2 +1,3 @@
 # OrchardSkills.OrchardCore.OrchardCMS
-An Orchard Core CMS Web Application
+
+An Orchard Core CMS Web Application with logging enabled.
